@@ -2,6 +2,10 @@
 
 <p>React-native-maps provide a simple polygon which is not editable. In other words, you can not drag points after drawing a complete polygon. To solve this issue, I made this project that help you to add this feature to your polygon.</p>
 
+# Demo
+
+![](https://github.com/masume-khorani/EditablePolygonOnMap/blob/master/assets/demo.gif)
+
 # Getting start
 <ul>
 <li>
